@@ -4,11 +4,6 @@
 
 Built with Next.js 14 App Router, Clerk for Auth, React, Prisma ORM, PostgreSQL, Tailwind CSS, UploadThing, Razorpay for payments, TypeScript, and more.
 
-<p align="center">
-  <img src="<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d63bee00-fd18-48c4-800b-4be6114cb65d" />
-" alt="FindMate Dashboard Screenshot" width="800"/>
-</p>
-
 ## Features
 
 ### Core Technologies:
